@@ -1,5 +1,8 @@
 _repo: The-Red-Cross-Girls-in-Belgium_53730
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53730-h/images/cover.jpg
 creator:
   author:
     agent_name: Vandercook, Margaret
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2838
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53730#The-Red-Cross-Girls-in-Belgium
 gutenberg_issued: '2016-12-14'
 gutenberg_type: Text
 identifiers:
