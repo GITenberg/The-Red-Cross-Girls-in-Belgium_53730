@@ -1,0 +1,30 @@
+_repo: The-Red-Cross-Girls-in-Belgium_53730
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2016-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Participation -- Juvenile fiction'
+- !lcsh 'Belgium -- Juvenile fiction'
+- !lcsh 'Nursing -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- GITenberg
+title: The Red Cross Girls in Belgium
+url: http://www.gutenberg.org/ebooks/53730
